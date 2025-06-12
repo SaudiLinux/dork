@@ -23,4 +23,7 @@
 1. تأكد من تثبيت Python على جهازك
 2. قم بتثبيت المكتبات المطلوبة:
 ```bash
+git clone https://github.com/SaudiLinux/dork.git
+cd dork
+
 pip install -r requirements.txt
